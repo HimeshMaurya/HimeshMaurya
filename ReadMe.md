@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on making an Image Processing Pipeline using Cloud services<br>I'm currently studying dsa using java and solutions architect associate<br>Ask me about Cloud Architecture Solutions<br>
+I'm currently working on making an Image Processing Pipeline using Cloud services<br>I'm currently studying DSA using java and AWS Solutions Architect Associate<br>Ask me about Cloud Architecture Solutions<br>
 
 
 ## 🌐 Socials:
